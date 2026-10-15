@@ -1,0 +1,4 @@
+openai>=1.40
+streamlit>=1.35
+mysql-connector-python>=9.0
+python-dotenv>=1.0
